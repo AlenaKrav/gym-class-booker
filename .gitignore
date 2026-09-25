@@ -1,0 +1,8 @@
+.env
+node_modules/
+dist/
+logs/
+*.log
+next_week_classes.json
+my_weekly_classes.json
+reservas.json
